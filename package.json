@@ -1,0 +1,49 @@
+{
+    "name": "techgrafico",
+    "displayName": "Techgrafico-Theme",
+    "description": "This is full Dark Theme.This TechGrafico Theme is all Black Theme.Never stop learning and Naver give up! plz... try! try! and try again and again. ",
+    "publisher": "TechGrafico",
+    "author": {
+        "name": "Subham Kumar",
+        "email": "techgrafico@gmail.com",
+        "url": "https://techgrafico.in"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^0.10.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/subh700/TechGrafico_theme"
+    },
+    "bugs": {
+        "url": "https://github.com/subh700/TechGrafico_theme/issues"
+    },
+    "galleryBanner": {
+        "color": "#ff6347",
+        "theme": "dark"
+    },
+    "icon": "img/favicon.ico",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "techgrafico theme",
+        "dark theme",
+        "techgrafico",
+        "vscode TechGrafico",
+        "black",
+        "blue",
+        "red",
+        "orange",
+        "skyblue"
+    ],
+
+    "contributes": {
+        "themes": [{
+            "label": "TechGrafico",
+            "uiTheme": "vs-dark",
+            "path": "./themes/TechGrafico-color-theme.json"
+        }]
+    }
+}
