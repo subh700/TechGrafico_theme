@@ -40,5 +40,5 @@ Type `theme`, choose `Preferences: Color Theme`, and select one of the Material 
 
 **Enjoy!**
 
-
-<p align="center"> <img src="img/logo.png" width=150 height=auto/> Copyright &copy; 2021 TechGrafico</p>
+<p align="center"><img src="img/logo.png"></p>
+<p align="center">Copyright &copy; 2021 TechGrafico</p>
