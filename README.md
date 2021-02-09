@@ -19,7 +19,7 @@ Launch *Quick Open*:
 Paste the following command and press `Enter`:
 
 ```shell
-ext install material theme
+ext install TechGrafico.techgrafico
 ```
 
 And pick the one by **Mattia Astorino (Equinusocio)** as author.
@@ -32,7 +32,8 @@ Launch *Quick Open*:
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
-Type `theme`, choose `Preferences: Color Theme`, and select one of the Material Theme variants from the list. After activation, the theme will set the correct icon theme based on your active theme variant.
+
+
 
 ### For more information
 * [Visual Studio Code's Markdown Support](https://techgrafico.in)
